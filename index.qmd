@@ -1,6 +1,31 @@
 ---
 title: "Urban Biodiversity Case Study"
-format: html
-editor: visual
+author: "LOYC205 Intro to Sustainability"
+date: "Oct 24, 2024"
+format: 
+  revealjs:
+    incremental: false
+    theme: simple
 ---
 
+
+## Today's Outline 
+
+
+
+
+## Nature's Contributions to People 
+
+
+
+## Biodiversity as contributions 
+
+
+## Resilience of biodiversity
+
+
+## The loss of ash trees 
+
+## Inequity in effects 
+
+## Invasive take-over

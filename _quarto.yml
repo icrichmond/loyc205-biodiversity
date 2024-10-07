@@ -1,4 +1,4 @@
 project:
   title: "loyc205-biodiversity"
-type: website
-output-dir: docs
+  type: website
+  output-dir: docs
