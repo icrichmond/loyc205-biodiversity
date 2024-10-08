@@ -2,6 +2,9 @@
 title: "Urban Biodiversity Case Study"
 author: "LOYC205 Intro to Sustainability"
 date: "Oct 24, 2024"
+title-slide-attributes:
+  data-background-image: /imgs/milkweed_sarahodriscoll_photography.jpg
+  data-background-opacity: "0.55"
 format: 
   revealjs:
     incremental: false
@@ -15,6 +18,9 @@ format:
 
 
 ## Nature's Contributions to People 
+
+
+![[Frontiers for Young Minds](https://kids.frontiersin.org/articles/10.3389/frym.2020.00098)](imgs/ncp.jpg)
 
 
 
