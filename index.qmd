@@ -11,31 +11,78 @@ format:
     theme: simple
 ---
 
+## Today's Learning Goals
 
-## Today's Learning Goals 
+-   Define and give an example of Nature's Contributions to People
+-   Describe how the impacts of the Emerald Ash Borer in Canadian cities are connected to urban biodiversity
+-   Argue why urban biodiversity is important with two or more lines of reasoning
 
-- Argue why urban biodiversity is important with various lines of reasoning 
-- Give an example of a tangible benefit of urban biodiversity 
-- Describe how the impacts of the Emerald Ash Borer in Canadian cities are connected to urban biodiversity
+## Urban Biodiversity
 
+::: columns
+::: {.column width="50%"}
+-   What is biodiversity?
 
+    -   Species richness
 
+    -   Evenness
 
-## Nature's Contributions to People 
+    -   Functional
 
+-   Increased biodiversity at one trophic level provides opportunity for increased biodiversity at the next
+
+    -   With some exceptions
+:::
+
+::: {.column width="50%"}
+![](imgs/bumblebee_3_sarahodriscoll_photography.jpg){width=75%}
+:::
+:::
+
+## Nature's Contributions to People[^1]
+
+[^1]: Díaz et al., 2018, Science, [doi: 10.1126/science.aap8826](https://doi.org/10.1126/science.aap8826)
+
+-   All the contributions of living nature to people's quality of life
+-   Culturally dependent and often context-specific
+-   Built on the framework of "ecosystem services
+
+## Nature's Contributions to People
 
 ![[Frontiers for Young Minds](https://kids.frontiersin.org/articles/10.3389/frym.2020.00098)](imgs/ncp.jpg)
 
+::: notes
+ask for examples of material, non-material, and regulating contributions in their lives - can we extend to the idea of context specific contributions?
+:::
 
+## Nature's Contributions in Cities
 
-## Biodiversity as contributions 
+-   80% of Quebecers (and Canadians) live in cities
+-   The majority of our interactions with nature happen in cities
+-   We experience positive and negative contributions
+    -   One example is [temperature regulation by trees](https://shorturl.at/ueCcT)
+    -   <https://shorturl.at/ueCcT>
 
+## Biodiversity as a Contribution
 
-## Resilience of biodiversity
+-   Is biodiversity contributing to urban residents' quality of life? How so?
 
+-   
 
-## The loss of ash trees 
+::: notes
+if we are trying to increase or maximize one single contribution, often more biodiversity doesn't necessarily help with this.
 
-## Inequity in effects 
+there are often specific species that contribute most to a specific set of contributions
+:::
+
+## Maximizing Temperature Regulation
+
+![[arbor1](https://arbor1.com/2015/02/16/20-incredible-benefits-urban-street-trees/)](imgs/ash.jpg)
+
+## Resilience of Urban Nature
+
+## The loss of ash trees
+
+## Inequity in effects
 
 ## Invasive take-over
