@@ -49,11 +49,11 @@
     "text": "Data Exploration (7 minutes)\n\nVisit this site: https://shorturl.at/ueCcT\nWhat does the data say about your neighbourhood (or the neighbourhoods of people you know)? Does it surprise you?"
   },
   {
-    "objectID": "index.html#biodiversity-as-a-contribution",
-    "href": "index.html#biodiversity-as-a-contribution",
+    "objectID": "index.html#biodiversity-as-one-of-natures-contributions-to-people",
+    "href": "index.html#biodiversity-as-one-of-natures-contributions-to-people",
     "title": "Urban Biodiversity Case Study",
-    "section": "Biodiversity as a Contribution",
-    "text": "Biodiversity as a Contribution\n\n\nQuestion: Does biodiversity itself contribute to urban residents’ quality of life? How so?\nFor many types of contributions, increasing biodiversity may increase overall capacity\nFor individual types of contributions, biodiversity may actually decrease capacity\n\nE.g., maximizing temperature regulation"
+    "section": "Biodiversity as one of Nature’s Contributions to People",
+    "text": "Biodiversity as one of Nature’s Contributions to People\n\n\nQuestion: Does biodiversity itself contribute to urban residents’ quality of life? How so?\nFor many types of contributions, increasing biodiversity may increase overall capacity\nFor individual types of contributions, biodiversity may actually decrease capacity\n\nE.g., maximizing temperature regulation"
   },
   {
     "objectID": "index.html#section",
@@ -67,14 +67,14 @@
     "href": "index.html#biodiversity-as-resilience",
     "title": "Urban Biodiversity Case Study",
     "section": "Biodiversity as Resilience",
-    "text": "Biodiversity as Resilience\n\nPaquette et al., 2021"
+    "text": "Biodiversity as Resilience\n\nBiodiversity makes our ecosystems more resilient, protecting nature’s contributions to people\n\n\nPaquette et al., 2021"
   },
   {
-    "objectID": "index.html#the-loss-of-ash-trees",
-    "href": "index.html#the-loss-of-ash-trees",
+    "objectID": "index.html#section-1",
+    "href": "index.html#section-1",
     "title": "Urban Biodiversity Case Study",
-    "section": "The loss of ash trees",
-    "text": "The loss of ash trees"
+    "section": "",
+    "text": "The loss of (many of) Montréal’s ash trees\n\n20% of Montréal’s public trees were ash (poor biodiversity)\nThe introduction of the emerald ash borer resulted in a loss of 40,000+ trees, canopy cover, and millions of dollars\nLack of biodiversity left our city vulnerable and lacking resilience\n\n\n\n\n\nPhoto: Gary Lovett"
   },
   {
     "objectID": "index.html#invasive-take-over",
@@ -89,5 +89,12 @@
     "title": "Urban Biodiversity Case Study",
     "section": "Biodiversity as Environmental Equity",
     "text": "Biodiversity as Environmental Equity"
+  },
+  {
+    "objectID": "index.html#sustainability",
+    "href": "index.html#sustainability",
+    "title": "Urban Biodiversity Case Study",
+    "section": "Sustainability?",
+    "text": "Sustainability?"
   }
 ]
