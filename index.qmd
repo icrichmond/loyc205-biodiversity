@@ -144,7 +144,20 @@ H2J H4B H3Y H3N
 
 -   Given that there is mass loss of trees, loss of canopy, and an increase in invasive species due to the emerald ash borer, what is a recommendation you would give to a city manager trying to replant the urban forest?
 
+
 ## Biodiversity as Inequity
+
+![[Aznarez et al., 2023](https://www.nature.com/articles/s42949-023-00128-7)](imgs/luxury.webp)
+
+
+## Biodiversity as Inequity
+
+- There is a global trend called **"The Luxury Effect"**
+- Urban biodiversity increases in neighbourhoods composed of wealthy, white, educated people
+- This form of environmental injustice leaves marginalized populations with fewer  of nature's contributions and the less resilience to disturbance
+
+> The equal distribution of biodiversity in cities, and thus the elimination of the luxury effect, is a worthy societal goal. ([Leong et al., 2018](https://royalsocietypublishing.org/doi/10.1098/rsbl.2018.0082))
+
 
 ##  {background-image="imgs/eastern_beebalm-2_sarahodriscoll_photography.jpg" background-opacity="0.85"}
 
