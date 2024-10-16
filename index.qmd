@@ -17,7 +17,7 @@ format:
 ::: incremental
 -   Define and give an example of Nature's Contributions to People
 -   Describe how the impacts of the Emerald Ash Borer in Canadian cities are connected to urban biodiversity
--   Argue why urban biodiversity is important with two or more lines of reasoning
+-   Argue why urban biodiversity is important with at least 2 lines of reasoning
 :::
 
 ## Urban Biodiversity
@@ -54,10 +54,6 @@ format:
 
 ![[Frontiers for Young Minds](https://kids.frontiersin.org/articles/10.3389/frym.2020.00098)](imgs/ncp.jpg)
 
-::: notes
-ask for examples of material, non-material, and regulating contributions in their lives - can we extend to the idea of context specific contributions?
-:::
-
 ## Paired Discussion (3 minutes)
 
 -   What are examples of material, non-material, and regulating contributions from nature in your lives?
@@ -80,10 +76,15 @@ ask for examples of material, non-material, and regulating contributions in thei
 :::
 :::
 
+::: notes
+H2J H4B H3Y H3N
+:::
+
 ## Data Exploration (7 minutes)
 
 -   Visit this site: <https://shorturl.at/ueCcT>
--   What does the data say about your neighbourhood (or the neighbourhoods of people you know)? Does it surprise you?
+-   What does the data say about your neighbourhood (or the neighbourhoods of people you know)?
+-   Are temperature mitigation/vegetation abundance aspects of your neighbourhood that you have thought about before?
 
 ## Biodiversity as one of Nature's Contributions to People
 
@@ -114,16 +115,53 @@ ask for examples of material, non-material, and regulating contributions in thei
 -   20% of Montréal's public trees were ash (poor biodiversity)
 -   The introduction of the emerald ash borer resulted in a loss of 40,000+ trees, canopy cover, and millions of dollars
 -   Lack of biodiversity left our city vulnerable and lacking resilience
-
 :::
 :::
 :::
-
 
 ![Photo: Gary Lovett]()
 
-## Invasive take-over
+## 
 
-## Biodiversity as Environmental Equity
+::: r-stack
+::: fragment
+::: columns
+::: {.column width="40%"}
+-   Cities are uniquely susceptible to invasive species
+-   The loss of ash trees provided gaps in canopy that allowed invasive species to come in
+:::
 
-## Sustainability?
+::: {.column width="60%"}
+![[Purdue University](https://www.purdue.edu/fnr/extension/timely-tree-removal/)](imgs/canopy.jpg)
+:::
+:::
+:::
+
+![](imgs/buckthorn.jpg){.fragment}
+:::
+
+## Small Group Discussion (5 minutes)
+
+-   Given that there is mass loss of trees, loss of canopy, and an increase in invasive species due to the emerald ash borer, what is a recommendation you would give to a city manager trying to replant the urban forest?
+
+## Biodiversity as Inequity
+
+##  {background-image="imgs/eastern_beebalm-2_sarahodriscoll_photography.jpg" background-opacity="0.85"}
+
+::: {.column width="90%"}
+::: {style="background-color: #c0c0beff; opacity: 80%"}
+**Take-aways**
+
+-   Nature's contributions to people are ways in which living nature influences human quality of life
+
+-   The emerald ash borer has had significant impacts on Montréal's urban forest and its residents
+
+    -   The impact was large because of lack of biodiversity
+
+-   Urban biodiversity contributes to our lives
+
+    -   Increasing nature's contributions to people
+
+    -   Improving our ecosystem's resilience
+:::
+:::
