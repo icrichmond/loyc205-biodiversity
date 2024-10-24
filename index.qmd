@@ -135,7 +135,7 @@ format:
 -   Are temperature mitigation/vegetation abundance aspects of your neighbourhood that you have thought about before?
 
 
-:::
+::: notes
 
 - we are now going to take a few minutes to explore some neighbourhoods and the cooling effect we experience 
 
