@@ -20,6 +20,10 @@ format:
 -   Argue why urban biodiversity is important with at least 2 lines of reasoning
 :::
 
+::: notes
+-   just out of curiosity, who here heard of the emerald ash borer? from other classes or from interacting with it outside of school?
+:::
+
 ## Urban Biodiversity
 
 ::: columns
@@ -42,6 +46,18 @@ format:
 :::
 :::
 
+::: notes
+-   lets start with urban biodiversity
+-   biodiversity actually isn't just one thing, which i think you may have discussed in this class recently
+-   when we are talking about urban biodiversity, we are of course talking about biodiversity in an urban setting
+-   in urban settings, we are usually talking about 1 of 3 types of biodiversity
+-   species richness, the total count of different species in a particular group
+-   evenness, the count and distribution of different species
+-   functional diversity: this is really important in cities. this is not necessarily different species or genera but exactly how it sounds - groups that function differently
+    -   these groupings depend on what you are interested in
+    -   e.g., urban trees ( i am a tree scientist)
+:::
+
 ## Nature's Contributions to People
 
 -   **All the contributions of living nature to people's quality of life**
@@ -50,14 +66,40 @@ format:
 
 ![[Díaz et al., 2018](https://doi.org/10.1126/science.aap8826)](imgs/science.png){width="70%" fig-align="center"}
 
+::: notes
+
+- another main concept of this lecture is nature's contributions to people 
+- defined as "all the contributions of living nature to people's quality of life" 
+- in the literature discussing nature's contributions, a theme that comes up is that they are culturally dependent and context-specific. 
+- if we think through that with an example, we can imagine how fall leaves are an important contribution from nature that we receive in the fall - they make us happy, it is a cultural touchstone, there are many associated recreational and cultural activities, and all of these are dependent on culture and context 
+
+:::
+
 ## Nature's Contributions to People
 
 ![[Frontiers for Young Minds](https://kids.frontiersin.org/articles/10.3389/frym.2020.00098)](imgs/ncp.jpg)
+
+::: notes
+
+- we often categorize nature's contributions to people as material, non-material, or regulating 
+- we can go over definitions and examples more after but i want to hear what you think of when we talk about these things 
+
+:::
+
+
 
 ## Paired Discussion (3 minutes)
 
 -   What are examples of material, non-material, and regulating contributions from nature in your lives?
 -   Are they context specific/culturally dependent?
+
+::: notes
+- material example: food, lumber
+- non-material examples: happiness, health, experiences, inspiration, learning 
+- regulating: temperature, pollination, ecosystem functioning
+
+:::
+
 
 ## Nature's Contributions in Cities
 
@@ -77,7 +119,13 @@ format:
 :::
 
 ::: notes
-H2J H4B H3Y H3N
+- specifically this lecture is about cities and the importance of urban biodiversity 
+- when we think about nature's contributions to people ,sometimes we are imagining national parks or nature that is outside of cities 
+- but 80% of Quebecers and Canadians live in cities, which means that the first experience with nature that many of us have and the most common interaction w nature we have , is in an urban environment 
+- its important to note that nature's contributions can be both positive and negative, its not helpful to erase the complexity of our relationship with nature 
+- this is a VERY trendy one right now, that some of you may think about in your regular lives/hear about on the radio/etc but temperature regulation by vegetation and specifically trees in our cities is really important for our wellbeing 
+- its not necessarily a simple relationship, trees have negative effects as well but the contributions of trees and vegetation to cooling are really critical for a lot of people 
+
 :::
 
 ## Data Exploration (7 minutes)
@@ -85,6 +133,16 @@ H2J H4B H3Y H3N
 -   Visit this site: <https://shorturl.at/ueCcT>
 -   What does the data say about your neighbourhood (or the neighbourhoods of people you know)?
 -   Are temperature mitigation/vegetation abundance aspects of your neighbourhood that you have thought about before?
+
+
+:::
+
+- we are now going to take a few minutes to explore some neighbourhoods and the cooling effect we experience 
+
+H2J H4B H3Y H3N
+
+:::
+
 
 ## Biodiversity as one of Nature's Contributions to People
 
@@ -95,15 +153,30 @@ H2J H4B H3Y H3N
     -   E.g., maximizing temperature regulation
 :::
 
+
+::: notes
+- ok so now that we have been thinking of what nature's contributions to people are for a few minutes, do we think that biodiversity itself is one of them? 
+- bit of a trick question - still controversial 
+::: 
+
 ## 
 
 ![[Ash Trees - arbor1](https://arbor1.com/2015/02/16/20-incredible-benefits-urban-street-trees/)](imgs/ash.jpg)
+
+::: notes
+- in this scenario, biodiversity would most likely decrease the ability to regulate temperature 
+:::
 
 ## Biodiversity as Resilience
 
 -   Biodiversity makes our ecosystems more resilient, protecting nature's contributions to people
 
 ![[Paquette et al., 2021](https://www.sciencedirect.com/science/article/pii/S1618866721001825?casa_token=x-28e-gFQxkAAAAA:FnJiPeajheJFKfRdeI-S5E0j3yyiT6YLAvFWZzEQBnYu_z08PfG2H7LKDCyrXPICBluvKcn-GeI)](imgs/resilience.jpg)
+
+::: notes
+- a really critical contribution of biodiversity is resilience 
+
+:::
 
 ##  {background-image="imgs/deadash.jpg"}
 
@@ -120,6 +193,13 @@ H2J H4B H3Y H3N
 :::
 
 ![Photo: Gary Lovett]()
+
+
+::: notes
+- Canadian cities have not always been good at planting biodiverse forests, for a variety of reasons 
+- the vulnerability we face without biodiversity has become extremely clear when confronting the emerald ash borer 
+:::
+
 
 ## 
 
@@ -140,23 +220,45 @@ H2J H4B H3Y H3N
 ![](imgs/buckthorn.jpg){.fragment}
 :::
 
+::: notes
+- in addition to having less temperature regulation, habitat, greenness, all the benefits you can think of, the loss of ash trees has presented a huge management problem wrt invasive species 
+- for many many reasons, cities are uniquely susceptible to invasive species 
+- as we are seeing the loss of ash trees, we are seeing the influx of invasive species taking up that "empty space" 
+:::
+
+
 ## Small Group Discussion (5 minutes)
 
 -   Given that there is mass loss of trees, loss of canopy, and an increase in invasive species due to the emerald ash borer, what is a recommendation you would give to a city manager trying to replant the urban forest?
 
 
+::: notes
+- essentially, the city is in a situation where they have many competing interests for what contributions public trees provide: temperature regulation, food provision, aesthetics, they have a harsh environment where not as many species can survive, there is a mass die-off of trees due to monoculture planting, and the canopy gaps are allowing invasive plants to take over 
+
+- what is a recommendation you would give to a city manager trying to replant right now? 
+:::
+
 ## Biodiversity as Inequity
 
 ![[Aznarez et al., 2023](https://www.nature.com/articles/s42949-023-00128-7)](imgs/luxury.webp)
 
+::: notes
+- the last thing we need to talk about here is how biodiversity is experienced and managed in our cities 
+- there's a clear trend in North American cities where areas with whiter, richer, more highly educated residents have more biodiversity (trees, birds, vegetation)
+:::
 
 ## Biodiversity as Inequity
 
-- There is a global trend called **"The Luxury Effect"**
-- Urban biodiversity increases in neighbourhoods composed of wealthy, white, educated people
-- This form of environmental injustice leaves marginalized populations with fewer  of nature's contributions and the less resilience to disturbance
+-   There is a global trend called **"The Luxury Effect"**
+-   Urban biodiversity increases in neighbourhoods composed of wealthy, white, educated people
+-   This form of environmental injustice leaves marginalized populations with fewer of nature's contributions and the less resilience to disturbance
 
 > The equal distribution of biodiversity in cities, and thus the elimination of the luxury effect, is a worthy societal goal. ([Leong et al., 2018](https://royalsocietypublishing.org/doi/10.1098/rsbl.2018.0082))
+
+::: notes
+- the luxury effect comes to fruition in many different ways: wealthier people have larger property, more money to buy vegetation, greening causes gentrification, more advocacy for public spaces
+- but the end result is the same: marginalized people suffer 
+:::
 
 
 ##  {background-image="imgs/eastern_beebalm-2_sarahodriscoll_photography.jpg" background-opacity="0.85"}
